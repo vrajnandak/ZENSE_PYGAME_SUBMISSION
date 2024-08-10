@@ -96,7 +96,7 @@ Contains code for testing specific pygame features.
 - **Pathfinding**: A* algorithm used for enemy movement towards the player.
 - **Mask Collision**: Detects and handles collisions with precise mask checks.
 
-## Credits
+## Additional Sources Used
 - **Images and Particles Code**: [Clear Code Projects - Zelda](https://github.com/clear-code-projects/Zelda)
 
 ---
